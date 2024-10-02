@@ -18,8 +18,8 @@ ablated cachets vends
 ablated catches vends
 ablated chanced vests
 ablated stenched vacs
-ablest advanced chest
-ablest advanced techs
+ablest advanced chest (1 word match!)
+ablest advanced techs (1 word match!)
 ablest advents cached
 ablest advents chaced
 ablest caved snatched
@@ -104,7 +104,7 @@ acted blanches staved
 acted cabstand helves
 acted cabstand shelve
 acted cabstands helve
-acts advanced bethels
+acts advanced bethels (1 word match!)
 acts advents bleached
 acts batched enslaved
 acts detachable vends
@@ -129,7 +129,7 @@ adv debacle stanchest
 adv detachable scents
 advance baldest chest
 advance baldest techs
-advance battled chess
+advance battled chess (1 word match!)
 advance beds chattels
 advance belched stats
 advance belts scathed
@@ -153,81 +153,82 @@ advance debt satchels
 advance debts latches
 advance debts satchel
 advance stabled techs
-advanced asset bletch
-advanced bach settles
-advanced baht selects
-advanced bahts elects
-advanced bahts select
-advanced basest letch
-advanced basset letch
-advanced bast letches
-advanced bastes letch
-advanced batch sleets
-advanced batch steels
-advanced batches lest
-advanced batches lets
-advanced batches tels
-advanced bath selects
-advanced baths elects
-advanced baths select
-advanced bats letches
-advanced battle chess
-advanced beasts letch
-advanced behests talc
-advanced belch states
-advanced belch tastes
-advanced belches stat
-advanced belches tats
-advanced belt sachets
-advanced belts chaste
-advanced belts cheats
-advanced belts sachet
-advanced belts scathe
-advanced belts taches
-advanced besets latch
-advanced best chalets
-advanced best latches
-advanced best satchel
-advanced bests chalet
-advanced bests thecal
-advanced bet satchels
-advanced betels chats
-advanced beth castles
-advanced bethel casts
-advanced bethel scats
-advanced bethels cast
-advanced bethels cats
-advanced bethels scat
-advanced bets chalets
-advanced bets latches
-advanced bets satchel
-advanced blast etches
-advanced blats etches
-advanced bleach setts
-advanced bleach stets
-advanced bleach tests
-advanced bleat chests
-advanced bleats chest
-advanced bleats techs
-advanced blest chaste
-advanced blest cheats
-advanced blest sachet
-advanced blest scathe
-advanced blest taches
-advanced bletch sates
-advanced bletch seats
-advanced chess tablet
-advanced chest stable
-advanced chest tables
-advanced chests table
-advanced etch stables
-advanced letches stab
-advanced letches tabs
-advanced sch settable
-advanced sch testable
-advanced stable techs
-advanced stables tech
-advanced tables techs
+advanced asset bletch (1 word match!)
+advanced bach settles (1 word match!)
+advanced baht selects (1 word match!)
+advanced bahts elects (1 word match!)
+advanced bahts select (1 word match!)
+advanced basest letch (1 word match!)
+advanced basset letch (1 word match!)
+advanced bast letches (1 word match!)
+advanced bastes letch (1 word match!)
+advanced batch sleets (1 word match!)
+advanced batch steels (1 word match!)
+advanced batches lest (1 word match!)
+advanced batches lets (1 word match!)
+advanced batches tels (1 word match!)
+advanced bath selects (1 word match!)
+advanced baths elects (1 word match!)
+advanced baths select (1 word match!)
+advanced bats letches (1 word match!)
+advanced battle chess (3 words match!)
+advanced beasts letch (1 word match!)
+advanced behests talc (1 word match!)
+advanced belch states (1 word match!)
+advanced belch tastes (1 word match!)
+advanced belches stat (1 word match!)
+advanced belches tats (1 word match!)
+advanced belt sachets (1 word match!)
+advanced belts chaste (1 word match!)
+advanced belts cheats (1 word match!)
+advanced belts sachet (1 word match!)
+advanced belts scathe (1 word match!)
+advanced belts taches (1 word match!)
+advanced besets latch (1 word match!)
+advanced best chalets (1 word match!)
+advanced best latches (1 word match!)
+advanced best satchel (1 word match!)
+advanced bests chalet (1 word match!)
+advanced bests thecal (1 word match!)
+advanced bet satchels (1 word match!)
+advanced betels chats (1 word match!)
+advanced beth castles (1 word match!)
+advanced bethel casts (1 word match!)
+advanced bethel scats (1 word match!)
+advanced bethels cast (1 word match!)
+advanced bethels cats (1 word match!)
+advanced bethels scat (1 word match!)
+advanced bets chalets (1 word match!)
+advanced bets latches (1 word match!)
+advanced bets satchel (1 word match!)
+advanced blast etches (1 word match!)
+advanced blats etches (1 word match!)
+advanced bleach setts (1 word match!)
+advanced bleach stets (1 word match!)
+advanced bleach tests (1 word match!)
+advanced bleat chests (1 word match!)
+advanced bleats chest (1 word match!)
+advanced bleats techs (1 word match!)
+advanced blest chaste (1 word match!)
+advanced blest cheats (1 word match!)
+advanced blest sachet (1 word match!)
+advanced blest scathe (1 word match!)
+advanced blest taches (1 word match!)
+advanced bletch sates (1 word match!)
+advanced bletch seats (1 word match!)
+advanced chess tablet (2 words match!)
+advanced chess battle (3 words match!)
+advanced chest stable (1 word match!)
+advanced chest tables (1 word match!)
+advanced chests table (1 word match!)
+advanced etch stables (1 word match!)
+advanced letches stab (1 word match!)
+advanced letches tabs (1 word match!)
+advanced sch settable (1 word match!)
+advanced sch testable (1 word match!)
+advanced stable techs (1 word match!)
+advanced stables tech (1 word match!)
+advanced tables techs (1 word match!)
 advances bach settled
 advances baldest etch
 advances baldest tech
@@ -572,7 +573,7 @@ bahts cleaved scanted
 balance saddest vetch
 balanced chats devest
 balanced chats vested
-balanced chess vatted
+balanced chess vatted (1 word match!)
 balanced chest staved
 balanced chested vast
 balanced chested vats
@@ -928,7 +929,7 @@ bated calves stanched
 bated canvassed letch
 bated chanced vestals
 bated chancels staved
-bated chess decalvant
+bated chess decalvant (1 word match!)
 bated chests valanced
 bated cheval descants
 bated scandal vetches
@@ -991,7 +992,7 @@ batted chancels saved
 batted chancels vades
 batted chances salved
 batted chances slaved
-batted chess valanced
+batted chess valanced (1 word match!)
 battened calved sachs
 battened calves chads
 battened cheval scads
@@ -1004,6 +1005,8 @@ battens caved clashed
 battens chaced salved
 battens chaced slaved
 battens chads cleaved
+battle chess advanced (3 words match!)
+battle advanced chess (3 words match!)
 battled chanced saves
 battled chanced vases
 battled chances saved
@@ -1357,7 +1360,7 @@ blanches teds vacated
 bland cacheted staves
 bland caveated chests
 bland caveats chested
-bland caveatted chess
+bland caveatted chess (1 word match!)
 bland chested vacates
 blandest cache staved
 blandest cached stave
@@ -1940,6 +1943,8 @@ chatted slabs vendace
 chattels dabs vendace
 cheats debs decalvant
 cheats debts valanced
+chess advanced battle (3 words match!)
+chess battle advanced (original word!!!)
 chested clavated nabs
 chested sabled vacant
 chested scad valebant
